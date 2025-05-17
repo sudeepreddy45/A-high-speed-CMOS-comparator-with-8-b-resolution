@@ -1,0 +1,1 @@
+# A-high-speed-CMOS-comparator-with-8-b-resolution
